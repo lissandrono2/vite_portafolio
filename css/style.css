@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: #0e0688;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    padding: 2px;
+}
+
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgper{
+    text-align: center;
+    padding: 1rem;
+}
+
+.imgperfil{
+    width: 20%;
+    justify-content: center;
+    margin-top: 20px;
+    margin: 2px;
+    border: 7px solid #000;
+    border-radius: 10px;
+}
+
+.Biografia{
+    line-height: 25px;
+}
+
+.Biografia h2{
+    font-size: 2rem;
+}
+
+.Contacto{
+    font-size:  1rem;
+    color: #fff;
+    padding: 10px;
+    background-color: rgb(17, 138, 138);
+}
+
+.Contacto h2{
+    font-size: 2rem;
+}
+
+.foooter{
+    background-color: #000;
+    padding: 30px;
+}
+
+footer{
+    text-align: center;
+    display: inline-block;
+    color: #fff;
+    position: static;
+}
